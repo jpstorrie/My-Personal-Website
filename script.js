@@ -6,3 +6,4 @@ aLine.textContent = 'JS'
 aLine.href = 'https://www.javascript.com/'
 aLine.target = `_blank`
 document.querySelector(`h2`).appendChild(aLine)
+
